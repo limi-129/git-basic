@@ -1,0 +1,3 @@
+For 'add', it adds the changed file from working directory to staging area.
+For 'commit', it takes all the file in staging area and saves changes to the local repository.
+For 'push', it publishes the file in local repository to remote repository.
